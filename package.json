@@ -1,6 +1,6 @@
 {
-  "name": "smpp",
-  "version": "0.3.1",
+  "name": "smppnew",
+  "version": "0.3.2",
   "description": "SMPP client and server implementation in node.js",
   "author": "Ali Farhadi <a.farhadi@gmail.com>",
   "engines": {
@@ -9,7 +9,7 @@
   "main": "./lib/smpp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/farhadi/node-smpp.git"
+    "url": "https://github.com/craigify/node-smpp.git"
   },
   "license": "MIT",
   "files": [
