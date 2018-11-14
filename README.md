@@ -2,9 +2,10 @@ node-smpp
 =========
 SMPP client and server implementation in node.js.
 
-Introduction
+NOTE!
 ------------
-NOTE! This only exists because of a bug in "farhadi/node-smpp".  The owner will not merge the pull request.
+This only exists because of a bug in "farhadi/node-smpp".  The owner will not merge the pull request.
+
 
 [![Build Status](https://travis-ci.org/farhadi/node-smpp.png)](https://travis-ci.org/farhadi/node-smpp)
 [![Dependency Status](https://david-dm.org/farhadi/node-smpp.svg)](https://david-dm.org/farhadi/node-smpp)
