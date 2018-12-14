@@ -1,6 +1,6 @@
 {
-  "name": "smppnew",
-  "version": "0.3.3",
+  "name": "smpp",
+  "version": "0.4.0",
   "description": "SMPP client and server implementation in node.js",
   "author": "Ali Farhadi <a.farhadi@gmail.com>",
   "engines": {
